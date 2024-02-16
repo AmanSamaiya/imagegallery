@@ -1,0 +1,1 @@
+// Run npm init to install all the used dependencies from the package.json file 

@@ -1,0 +1,24 @@
+.Card {
+  border: none;
+  border-radius: 8px;
+  background-color: rgb(124, 221, 208);
+  text-align: center;
+}
+
+.Card:hover {
+  scale: 105%;
+  transition: ease-in;
+  transition-duration: 0.3s;
+  box-shadow: 0 0 10px black;
+}
+
+.image {
+  height: 310px;
+  width: 320px;
+  border-radius: 8px;
+}
+
+.text {
+  font-weight: 700;
+  font-size: larger;
+}
